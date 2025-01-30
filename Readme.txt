@@ -44,4 +44,6 @@ This project implements a **4-bit synchronous counter** using D-flip flops. The 
 
 ---
 
+NOTE : You have to open .circ file with any simulation program such as Logisim
+
   
